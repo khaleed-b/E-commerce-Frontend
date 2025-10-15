@@ -44,7 +44,7 @@ index.html        # Root HTML file
 
 ## Backend Integration
 
-This frontend is designed to connect to a [FastAPI ecommerce backend](https://github.com/yourusername/ecommerce-backend).  
+This frontend is designed to connect to a [FastAPI ecommerce backend](https://github.com/khaleedo/FastAPI-E-commerce-API).  
 API endpoints are managed in `src/services/apiEndpoints.ts` and consumed via custom hooks and context providers.
 
 ## Getting Started
